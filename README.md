@@ -42,3 +42,7 @@ ADMIN PORTAL
 <img src = "admin-05.JPG" width ="1000" /> 
 <img src = "admin-06.JPG" width ="1000" /> 
 <img src = "admin-07.JPG" width ="1000" /> 
+
+EMPLOYEE MOBILE APP
+
+<img src = "EMP-01.jpg" width ="250" /> <img src = "EMP-02.jpg" width ="250" /> <img src = "EMP-03.jpg" width ="250" /> <img src = "EMP-04.jpg" width ="250" /> <img src = "EMP-05.jpg" width ="250" /> <img src = "EMP-06.jpg" width ="250" /> <img src = "EMP-07.jpg" width ="250" /> <img src = "EMP-08.jpg" width ="250" />
